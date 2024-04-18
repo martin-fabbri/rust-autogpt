@@ -1,0 +1,2 @@
+# rust-autogpt
+Rust autogpt
